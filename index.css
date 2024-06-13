@@ -19,6 +19,13 @@ body{
   }
   
 }
+.container{
+  background:linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.1)),url(./images/Grova3.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 350px;
+}
 .Top{
   background-color: black;
   padding: 10px;
